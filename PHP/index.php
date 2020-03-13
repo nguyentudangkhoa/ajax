@@ -22,6 +22,7 @@
             <td><input type="text" id="txtname"></td>
         </tr>
         <tr>
+            <td></td>
             <td>
                 <div id="txtcontent">....</div>
             </td>
